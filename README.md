@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Machine Learning**
 
-- 👯 I'm looking to collaborate on **Research Papers Writing with AI/ML tools**
+- 👯 I'm looking to collaborate on **Research Papers Writing**
 
 - 📫 How to reach me **tasnimul.eee@gmai.com**
 
