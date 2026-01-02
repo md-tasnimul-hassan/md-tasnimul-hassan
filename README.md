@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **Research Papers Writing**
 
-- 📫 How to reach me **tasnimul.eee@gmai.com**
+- 📫 How to reach me **tasnimul.eee@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.sites.google.com/view/md-tasnimul-hassan](https://www.sites.google.com/view/md-tasnimul-hassan)**
 
