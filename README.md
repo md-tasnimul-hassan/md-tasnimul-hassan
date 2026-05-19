@@ -14,7 +14,6 @@
 - [Kaggle](https://kaggle.com/mdtasnimulhassan7)
 - [Medium](https://medium.com/md-tasnimul-hassan)
 - [YouTube](https://youtube.com/@md.tasnimul.hassan)
-- [Codeforces](https://codeforces.com/profile/tasnimul_hassan)
 
 ### Languages and Tools:
 - **Languages:** C, C++, Python, Bash
