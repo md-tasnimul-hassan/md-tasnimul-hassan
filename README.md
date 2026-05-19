@@ -4,10 +4,6 @@
 
 - 🔭 I'm currently working on **Machine learning projects**
 
-- 🌱 I'm currently learning **Machine Learning**
-
-- 👯 I'm looking to collaborate on **Research Papers Writing**
-
 - 📫 How to reach me **tasnimul.eee@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.sites.google.com/view/md-tasnimul-hassan](https://www.sites.google.com/view/md-tasnimul-hassan)**
