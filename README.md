@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tasnimul.eee@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.sites.google.com/view/md-tasnimul-hassan](https://www.sites.google.com/view/md-tasnimul-hassan)**
+- 👨‍💻 All of my projects are available at **[https://md-tasnimul-hassan.github.io](https://md-tasnimul-hassan.github.io)**
 
 ### Connect with me:
 - [GitHub](https://github.com/md-tasnimul-hassan)
